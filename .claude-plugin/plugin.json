@@ -1,0 +1,6 @@
+{
+  "name": "clojure-replicant",
+  "description": "Clojure Replicant skill — data-driven DOM and string rendering, hiccup syntax, aliases, event handlers, life-cycle hooks, CSS transitions, and node memory.",
+  "version": "0.1.0",
+  "skills": "./"
+}

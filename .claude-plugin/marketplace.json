@@ -1,0 +1,17 @@
+{
+  "name": "clojure-replicant-skill",
+  "metadata": {
+    "description": "stoating's Clojure Replicant skill for AI coding agents — data-driven DOM and string rendering, hiccup syntax, aliases, event handlers, life-cycle hooks, CSS transitions, and node memory."
+  },
+  "owner": {
+    "name": "stoating"
+  },
+  "plugins": [
+    {
+      "name": "clojure-replicant",
+      "source": "./",
+      "description": "Clojure Replicant skill — data-driven DOM and string rendering, hiccup syntax, aliases, event handlers, life-cycle hooks, CSS transitions, and node memory.",
+      "version": "0.1.0"
+    }
+  ]
+}
