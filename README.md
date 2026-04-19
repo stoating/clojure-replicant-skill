@@ -14,7 +14,7 @@ Pick the section matching your agent.
 
 ```
 /plugin marketplace add stoating/clojure-replicant-skill
-/plugin install clojure-replicant@clojure-replicant-skill
+/plugin install replicant@clojure-replicant-skill
 ```
 
 Once installed, invoke it with:
@@ -31,7 +31,7 @@ To update later:
 
 ```
 /plugin marketplace add stoating/plugins
-/plugin install clojure-replicant@stoating
+/plugin install replicant@stoating
 ```
 
 ### C) Claude Code (manual copy)
